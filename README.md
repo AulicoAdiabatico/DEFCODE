@@ -1,2 +1,2 @@
 # DEFCODE
-https://mybinder.org/v2/gh/AulicoAdiabatico/DEFCODE/gh-pages
+https://mybinder.org/v2/gh/AulicoAdiabatico/DEFCODE.git/gh-pages
