@@ -1,2 +1,2 @@
 # DEFCODE
-https://mybinder.org/v2/gh/AulicoAdiabatico/DEFCODE/master
+https://mybinder.org/v2/gh/AulicoAdiabatico/DEFCODE/main
